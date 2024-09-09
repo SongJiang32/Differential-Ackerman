@@ -1,0 +1,8 @@
+prefix=/home/jason32/jason_ws/devel
+
+Name: jason_gazebo
+Description: Description of jason_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

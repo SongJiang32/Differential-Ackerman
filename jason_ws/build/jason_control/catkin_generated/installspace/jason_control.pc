@@ -1,0 +1,8 @@
+prefix=/home/jason32/jason_ws/install
+
+Name: jason_control
+Description: Description of jason_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

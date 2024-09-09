@@ -1,0 +1,2 @@
+jason_control:jason_description:jason_gazebo:jason_nav:jason_slam:jason_vision
+-DCATKIN_DEVEL_PREFIX=/home/jason32/jason_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jason32/jason_ws/install -G Unix Makefiles
